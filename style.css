@@ -776,48 +776,17 @@ video {
   background-color: rgb(99 102 241 / var(--tw-bg-opacity, 1));
 }
 
+.bg-yellow-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(234 179 8 / var(--tw-bg-opacity, 1));
+}
+
 .bg-opacity-50 {
   --tw-bg-opacity: 0.5;
 }
 
 .bg-\[url\(\'\.\.\/src\/assets\/images\/burger\.jpg\'\)\] {
   background-image: url('../src/assets/images/burger.jpg');
-}
-
-.bg-\[url\(\'https\:\/\/media\.istockphoto\.com\/id\/517188688\/photo\/mountain-landscape\.jpg\?s\=1024x1024\&w\=0\&k\=20\&c\=z8_rWaI8x4zApNEEG9DnWlGXyDIXe-OmsAyQ5fGPVV8\=\'\)\] {
-  background-image: url('https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=1024x1024&w=0&k=20&c=z8_rWaI8x4zApNEEG9DnWlGXyDIXe-OmsAyQ5fGPVV8=');
-}
-
-.bg-\[url\(\'\'\)\] {
-  background-image: url('');
-}
-
-.bg-\[url\(\'sr\'\)\] {
-  background-image: url('sr');
-}
-
-.bg-\[url\(\'src\/\'\)\] {
-  background-image: url('src/');
-}
-
-.bg-\[url\(\'src\/assets\/\'\)\] {
-  background-image: url('src/assets/');
-}
-
-.bg-\[url\(\'\.\/src\/assets\/\'\)\] {
-  background-image: url('./src/assets/');
-}
-
-.bg-\[url\(\'\.\/s\/assets\/\'\)\] {
-  background-image: url('./s/assets/');
-}
-
-.bg-\[url\(\'\.\/\'\)\] {
-  background-image: url('./');
-}
-
-.bg-\[url\(\'\.\/src\'\)\] {
-  background-image: url('./src');
 }
 
 .bg-\[url\(\'\.\/src\/assets\/images\/burger\.jpg\'\)\] {
